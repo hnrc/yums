@@ -16,4 +16,3 @@ oink
 :<>
 
 :beers:
-:dancers:
