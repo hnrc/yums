@@ -17,4 +17,4 @@ oink
 
 wat :beers:
 
-:trolleybus:
+:trolleybus: :dash:
