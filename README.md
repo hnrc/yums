@@ -16,3 +16,5 @@ oink
 :<>
 
 wat :beers:
+
+:trolleybus:
